@@ -1,8 +1,7 @@
+#### :see_no_evil: What was Changed
 
-:see_no_evil:
+#### :hear_no_evil: Why it was Changed
 
-:hear_no_evil:
+#### :speak_no_evil: What it Does
 
-:speak_no_evil:
-
-:pencil2:
+#### :pencil2: Notes
