@@ -5,3 +5,5 @@
 #### :speak_no_evil: What it Does
 
 #### :pencil2: Notes
+
+-   [x] Code has been manually verified
